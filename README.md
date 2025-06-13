@@ -24,26 +24,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=stanshopfans&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies"/>
 </p>
 
----
 
-## 🌱 About Me
 
-- 🧠 I’m currently focused on **[your current focus]**
-- 💬 Ask me about **[topics you’re good at]**
-- ⚡ Fun fact: **[something personal/fun about you]**
-
----
-
-## 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER"><img title="Twitter" src="https://img.shields.io/badge/Twitter-@YOUR_TWITTER-1DA1F2?logo=twitter"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YourProfile-blue?logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img title="Email" src="https://img.shields.io/badge/Email-youremail-blue?logo=gmail"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stanshopfans&color=blueviolet&style=flat-square" alt="Profile Views"/>
-</p>
